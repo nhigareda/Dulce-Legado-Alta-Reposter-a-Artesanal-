@@ -1,68 +1,77 @@
-# Dulce-Legado-Alta-Reposter-a-Artesanal-
-Dulce Legado – Alta Repostería Artesanal &amp; Mesas de Postres Emprendimiento familiar dedicado a la creación de pasteles caseros y tartas individuales para eventos, fusionando tradición con técnicas de vanguardia. Nos especializamos en el uso de chocolates finos, un diseño visual impecable y el montaje profesional de mesas de postres personalizadas.
-# 🧁 Dulce Legado: Alta Repostería Artesanal & Mesas de Postres
+# 🎂 Dulce Legado – Alta Repostería Artesanal & Mesas de Postres
 
-> **Transformando momentos especiales en experiencias inolvidables a través de la repostería fina y el diseño personalizado.**
-
----
-
-## 📌 Sobre el Proyecto
-
-**Dulce Legado** es un emprendimiento familiar de alta repostería diseñado para cubrir las necesidades del sector de eventos y amantes del buen dulce. Nos especializamos en la fusión de la calidez de la pastelería casera con la sofisticación de la chocolatería fina y el diseño de autor. 
-
-Este repositorio funciona como el portafolio digital y centro de gestión de la marca, donde se documenta la identidad del negocio, el catálogo de productos y la planeación logística de nuestros servicios.
+<p align="center">
+  <img src="https://img.shields.io/badge/Status-Activo-brightgreen?style=for-the-badge" alt="Status">
+  <img src="https://img.shields.io/badge/Categor%C3%ADa-Gastronom%C3%ADa%20%26%20Eventos-blueviolet?style=for-the-badge" alt="Categoría">
+  <img src="https://img.shields.io/badge/Hecho%20con-Amor%20Familiar-ff69b4?style=for-the-badge" alt="Hecho con Amor">
+</p>
 
 ---
 
-## ✨ Características Principales & Propuesta de Valor
+## ✨ Sobre Nosotros
 
-| Pilar | Descripción | Nuestro Enfoque |
-| :--- | :--- | :--- |
-| **Calidad Gourmet** | Materia prima seleccionada minuciosamente. | Uso exclusivo de **chocolates finos** y frutos frescos. |
-| **Presentación Impecable** | El amor entra por los ojos. | Diseños limpios, elegantes y en tendencia (*Instagramready*). |
-| **Flexibilidad** | Adaptación total al cliente. | Formatos desde **tartas individuales** hasta pasteles de gran formato. |
-| **Experiencia Completa** | No solo vendemos postres, creamos espacios. | Servicio integral de **montaje de mesas de postres** temáticas. |
+**Dulce Legado** es un emprendimiento familiar dedicado a la creación de pasteles caseros, tartas individuales y experiencias dulces para eventos de alta gama. Fusionamos las recetas tradicionales y el calor del hogar con técnicas de vanguardia, logrando un equilibrio perfecto entre sabor, textura y estética visual.
+
+Nos especializamos en el uso de **chocolates finos**, un diseño visual impecable y el montaje profesional de **mesas de postres personalizadas**.
 
 ---
 
-## 🍰 Nuestro Catálogo de Soluciones
+## 🚀 Nuestra Propuesta de Valor
 
-*   **Pasteles Caseros para Eventos:** Diseños personalizados para bodas, XV años, aniversarios y eventos corporativos.
-*   **Tartas Individuales & Petit Fours:** Porciones individuales perfectas para barras de postres dinámicas y degustaciones.
-*   **Chocolatería Fina:** Bombones, trufas y detalles personalizados con coberturas de alta calidad.
-*   **Montaje Estructural:** Diseño y producción de mesas de postres con vajilla, alturas y ambientación adaptada a la temática del evento.
-
----
-
-## 💡 Estrategia de Innovación (Atención al Cliente)
-
-Para mantenernos competitivos y atractivos en el mercado actual, implementamos:
-1.  **Tasting Boxes (Cajas de Cata):** Experiencias de degustación a domicilio para organizadores de eventos.
-2.  **Estaciones de Personalización:** Barras interactivas en eventos donde el invitado elige el *topping* de su tarta.
-3.  **Logística Visual:** Planificación digital previa del montaje de la mesa de postres para aprobación del cliente.
+- **🍰 Alta Repostería Artesanal:** Cada producto se elabora desde cero, sin conservadores, utilizando ingredientes premium y de origen seleccionado (destacando nuestra selección de chocolates finos).
+- **🎨 Diseño de Vanguardia:** No solo hacemos postres; creamos piezas artísticas visualmente impecables que se adaptan a la temática, paleta de colores y estilo de tu evento.
+- **💼 Servicio Integral para Eventos:** Nos encargamos desde el diseño del menú dulce hasta el montaje profesional y la ambientación de la mesa de postres en el lugar del evento.
+- **👨‍👩‍👧 Esencia Familiar:** Mantenemos la calidez, la receta secreta y el cuidado del detalle de la cocina casera, garantizando que cada bocado sea una experiencia memorable.
 
 ---
 
-## 🛠️ Tecnologías y Herramientas de Gestión
-*(Nota: Modifica esta sección según las herramientas reales que uses para gestionar tu negocio o el código de tu web)*
+## 📜 Nuestro Catálogo Especializado
 
-*   **Gestión y Planificación:** Notion / Trello (Seguimiento de pedidos y eventos).
-*   **Diseño Visual:** Canva / Adobe Illustrator (Diseño de catálogos y renders de mesas).
-*   **Desarrollo Web (Próximamente):** HTML5, CSS3, JavaScript (Para el catálogo interactivo en línea).
+### 1. Pasteles de Autor (Caseros & Vanguardia)
+* Pasteles de celebración con acabados modernos (Buttercream, texturas rústicas, flores naturales, hojas de oro).
+* Especialidades en coberturas y rellenos utilizando chocolates finos de alta pureza.
 
----
+### 2. Tartas Individuales (Petits Fours & Tartaletas)
+* Tartas de autor con masas perfectamente horneadas (sablée, sucrée).
+* Rellenos cremosos, emulsiones de fruta natural y glaseados espejo de alta costura.
 
-## 📈 Objetivos del Repositorio
-
-*   [x] Definición del modelo de negocio y propuesta de valor.
-*   [ ] Integración del catálogo interactivo de productos.
-*   [ ] Sistema automatizado de cotizaciones para eventos.
-*   [ ] Galería fotográfica de montajes reales.
+### 3. Mesas de Postres Personalizadas (Candy Bars & Dessert Tables)
+* Montaje conceptualizado según el tipo de evento (Bodas, XV Años, Eventos Corporativos, Bautizos).
+* Variedad de texturas: vasitos de mousse, mini tartas, trufas de chocolate fino, macarons y pastelería miniatura.
 
 ---
 
-## 👥 Equipo
-*   **[Tu Nombre/Familia]** - *Fundadores & Diseñadores Azucareros* 
+## 🛠️ Detalles del Servicio & Flujo de Trabajo
+
+Para garantizar la perfección y el diseño impecable en cada entrega, seguimos un riguroso proceso:
+
+1. **Consulta Inicial:** Entendemos la visión de tu evento, el número de invitados y tus preferencias de sabor.
+2. **Propuesta y Diseño:** Creamos un concepto visual para tu pastel o mesa de postres, junto con una propuesta de menú personalizada.
+3. **Producción Artesanal:** Elaboración de los postres justo antes del evento utilizando técnicas de vanguardia para asegurar frescura máxima.
+4. **Montaje Profesional:** Nuestro equipo se traslada al lugar del evento para realizar la colocación, estilismo y decoración de la mesa de postres.
 
 ---
-*Este proyecto es parte de nuestro portafolio de emprendimiento e innovación gastronómica.*
+
+## 📸 Galería y Portafolio
+
+*¡Próximamente! Aquí podrás ver imágenes de nuestras creaciones más icónicas y montajes de mesas de postres.*
+
+> 💡 *Nota: Si estás visualizando este repositorio en GitHub, las imágenes de nuestro portafolio y catálogos visuales están organizadas de forma limpia dentro de la carpeta `/assets` del repositorio.*
+
+---
+
+## ✉️ Contacto y Pedidos
+
+¿Tienes un evento en puerta o deseas cotizar una mesa de postres a la medida? ¡Nos encantaría ser parte de tu historia!
+
+- **📍 Ubicación:** [Tu Ciudad / País]
+- **📞 Teléfono / WhatsApp:** [Tu número de contacto]
+- **📧 Correo Electrónico:** [tu-correo@dulcelegado.com]
+- **📸 Instagram:** [@TuUsuarioDeInstagram](https://instagram.com)
+- **👤 Facebook:** [Nombre de tu Página](https://facebook.com)
+
+---
+
+<p align="center">
+  <i>"Horneando recuerdos, decorando momentos. El dulce legado de nuestra familia para la tuya."</i>
+</p>
