@@ -1,77 +1,67 @@
-# 🎂 Dulce Legado – Alta Repostería Artesanal & Mesas de Postres
+# 💼 Aliado Estratégico en Contabilidad e Impuestos para Emprendedores Digitales
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Status-Activo-brightgreen?style=for-the-badge" alt="Status">
-  <img src="https://img.shields.io/badge/Categor%C3%ADa-Gastronom%C3%ADa%20%26%20Eventos-blueviolet?style=for-the-badge" alt="Categoría">
-  <img src="https://img.shields.io/badge/Hecho%20con-Amor%20Familiar-ff69b4?style=for-the-badge" alt="Hecho con Amor">
+  <img src="https://img.shields.io/badge/Status-Disponible%20para%20Asesor%C3%ADas-brightgreen?style=for-the-badge" alt="Status">
+  <img src="https://img.shields.io/badge/Especialidad-Freelancers%20%26%20Emprendedores-blue?style=for-the-badge" alt="Especialidad">
+  <img src="https://img.shields.io/badge/Servicio-100%25%20Digital-orange?style=for-the-badge" alt="Servicio">
 </p>
 
 ---
 
-## ✨ Sobre Nosotros
+## 🎯 Mi Misión
 
-**Dulce Legado** es un emprendimiento familiar dedicado a la creación de pasteles caseros, tartas individuales y experiencias dulces para eventos de alta gama. Fusionamos las recetas tradicionales y el calor del hogar con técnicas de vanguardia, logrando un equilibrio perfecto entre sabor, textura y estética visual.
+Ayudo a **freelancers, emprendedores y empresas** a mantener su salud financiera y fiscal en orden mientras ellos se concentran en lo que mejor saben hacer: **hacer crecer su negocio**. 
 
-Nos especializamos en el uso de **chocolates finos**, un diseño visual impecable y el montaje profesional de **mesas de postres personalizadas**.
-
----
-
-## 🚀 Nuestra Propuesta de Valor
-
-- **🍰 Alta Repostería Artesanal:** Cada producto se elabora desde cero, sin conservadores, utilizando ingredientes premium y de origen seleccionado (destacando nuestra selección de chocolates finos).
-- **🎨 Diseño de Vanguardia:** No solo hacemos postres; creamos piezas artísticas visualmente impecables que se adaptan a la temática, paleta de colores y estilo de tu evento.
-- **💼 Servicio Integral para Eventos:** Nos encargamos desde el diseño del menú dulce hasta el montaje profesional y la ambientación de la mesa de postres en el lugar del evento.
-- **👨‍👩‍👧 Esencia Familiar:** Mantenemos la calidez, la receta secreta y el cuidado del detalle de la cocina casera, garantizando que cada bocado sea una experiencia memorable.
+Olvídate del estrés del SAT, los requerimientos y las complicaciones administrativas. Yo me encargo de que tu negocio cumpla con todas las normativas de forma eficiente, transparente y sin dolores de cabeza.
 
 ---
 
-## 📜 Nuestro Catálogo Especializado
+## 🛠️ ¿Cómo puedo ayudarte? (Servicios)
 
-### 1. Pasteles de Autor (Caseros & Vanguardia)
-* Pasteles de celebración con acabados modernos (Buttercream, texturas rústicas, flores naturales, hojas de oro).
-* Especialidades en coberturas y rellenos utilizando chocolates finos de alta pureza.
-
-### 2. Tartas Individuales (Petits Fours & Tartaletas)
-* Tartas de autor con masas perfectamente horneadas (sablée, sucrée).
-* Rellenos cremosos, emulsiones de fruta natural y glaseados espejo de alta costura.
-
-### 3. Mesas de Postres Personalizadas (Candy Bars & Dessert Tables)
-* Montaje conceptualizado según el tipo de evento (Bodas, XV Años, Eventos Corporativos, Bautizos).
-* Variedad de texturas: vasitos de mousse, mini tartas, trufas de chocolate fino, macarons y pastelería miniatura.
+| Servicio | Descripción | Beneficio |
+| :--- | :--- | :--- |
+| **📈 Declaraciones Mensuales y Anuales** | Presentación exacta, deducibilidad estratégica y cálculo de impuestos a tiempo. | Evita multas y recargos innecesarios. |
+| **💼 Movimientos SAT e IMSS** | Altas, bajas, modificaciones de obligaciones y gestión de nóminas sin errores. | Cumplimiento patronal impecable. |
+| **📊 Estados Financieros** | Elaboración de reportes e interpretación de balances y estados de resultados. | Conoce la realidad de tu dinero para tomar decisiones. |
+| **📋 Declaraciones Informativas** | Presentación de DIOT y demás obligaciones fiscales complementarias. | Transparencia total ante la autoridad. |
+| **🔑 Trámites Especializados** | Gestión digital de firmas (e.firma), certificados (CSD) y aclaraciones. | Soluciones rápidas sin perder el día en oficinas. |
 
 ---
 
-## 🛠️ Detalles del Servicio & Flujo de Trabajo
+## 🚀 ¿Por qué trabajar conmigo?
 
-Para garantizar la perfección y el diseño impecable en cada entrega, seguimos un riguroso proceso:
-
-1. **Consulta Inicial:** Entendemos la visión de tu evento, el número de invitados y tus preferencias de sabor.
-2. **Propuesta y Diseño:** Creamos un concepto visual para tu pastel o mesa de postres, junto con una propuesta de menú personalizada.
-3. **Producción Artesanal:** Elaboración de los postres justo antes del evento utilizando técnicas de vanguardia para asegurar frescura máxima.
-4. **Montaje Profesional:** Nuestro equipo se traslada al lugar del evento para realizar la colocación, estilismo y decoración de la mesa de postres.
+* **🛡️ Tranquilidad fiscal:** Cero sorpresas, cero sustos y un monitoreo constante para prevenir requerimientos de las autoridades.
+* **🗣️ Claridad absoluta:** Te explico tus números, impuestos y estrategias de forma simple, en tu idioma y sin tecnicismos complejos.
+* **⚡ Procesos eficientes:** Maximizo el uso de herramientas tecnológicas y contabilidad digital para agilizar los flujos y ahorrarte tiempo.
 
 ---
 
-## 📸 Galería y Portafolio
-
-*¡Próximamente! Aquí podrás ver imágenes de nuestras creaciones más icónicas y montajes de mesas de postres.*
-
-> 💡 *Nota: Si estás visualizando este repositorio en GitHub, las imágenes de nuestro portafolio y catálogos visuales están organizadas de forma limpia dentro de la carpeta `/assets` del repositorio.*
+## 🛠️ Tecnologías y Software Contable que Dominas
+*(Opcional: Si manejas sistemas especializados, esta sección demuestra tu perfil técnico)*
+* 📂 **Sistemas Contables:** Contpaqi / Aspel / Coi (o tus sistemas locales).
+* 📑 **Herramientas de Productividad:** Excel Avanzado / Dashboards Financieros.
+* 🌐 **Plataformas Oficiales:** Portales Digitales SAT, IMSS, INFONAVIT.
 
 ---
 
-## ✉️ Contacto y Pedidos
+## 📩 ¿Listo para poner orden en tus finanzas?
 
-¿Tienes un evento en puerta o deseas cotizar una mesa de postres a la medida? ¡Nos encantaría ser parte de tu historia!
+¡Hablemos! Agenda una consultoría inicial para revisar la situación actual de tu negocio y trazar la mejor estrategia fiscal para ti.
 
-- **📍 Ubicación:** [Tu Ciudad / País]
-- **📞 Teléfono / WhatsApp:** [Tu número de contacto]
-- **📧 Correo Electrónico:** [tu-correo@dulcelegado.com]
-- **📸 Instagram:** [@TuUsuarioDeInstagram](https://instagram.com)
-- **👤 Facebook:** [Nombre de tu Página](https://facebook.com)
+<p align="left">
+  <a href="mailto:tu-correo@dominio.com" target="_blank">
+    <img src="https://img.shields.io/badge/Correo-Escr%C3%ADbeme-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+  </a>
+  <a href="https://wa.me/TU_NUMERO_DE_TELEFONO" target="_blank">
+    <img src="https://img.shields.io/badge/WhatsApp-Hablemos-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp">
+  </a>
+  <a href="https://tusitioweb.com" target="_blank">
+    <img src="https://img.shields.io/badge/Sitio%20Web-Vis%C3%ADtame-0078D4?style=for-the-badge&logo=microsoft-edge&logoColor=white" alt="Sitio Web">
+  </a>
+</p>
 
 ---
 
 <p align="center">
-  <i>"Horneando recuerdos, decorando momentos. El dulce legado de nuestra familia para la tuya."</i>
+  <i>"Tu negocio genera los ingresos, yo protejo tu tranquilidad financiera."</i>
 </p>
